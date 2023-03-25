@@ -10,5 +10,6 @@ The Secrets App is a platform that allows users to anonymously post their secret
 -   Express.js
 -   MongoDB (Mongoose)
 -   Passport.js
+-   EJS
 -   Bootstrap
 -   Font Awesome
